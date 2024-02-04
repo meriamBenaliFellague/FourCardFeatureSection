@@ -98,6 +98,9 @@ section > p{
         width: 320px;
         font-size: 25px;
     }
+    p{
+        max-width: 320px;
+    } 
     header{
         margin-bottom: 50px;
     }
