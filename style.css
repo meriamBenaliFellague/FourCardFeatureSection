@@ -29,7 +29,6 @@ body{
     grid-template-rows: 200px 400px;
     background-color: var(--Very-Light-Gray);
     font-family: var(--font-family);
-    
 }
 
 header{
@@ -37,7 +36,7 @@ header{
     text-align: center;
     margin-bottom: 65px;
     transform: translate(-50%,-50%);
-    top: 30%;
+    top: 20%;
     left: 50%;
     position: absolute;
 }
@@ -62,7 +61,7 @@ main{
     height: 530px;
     width: 82%;
     transform: translate(-50%,-50%);
-    top: 95%;
+    top: 80%;
     left: 50%;
     position: absolute;
 }
